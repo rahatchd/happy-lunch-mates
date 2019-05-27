@@ -1,0 +1,10 @@
+### intelliJ
+/.idea
+*.iml
+
+### rust
+/target
+**/*.rs.bk
+
+### dotenv
+.env
